@@ -1,4 +1,4 @@
-
+	
 $.ajaxSetup({
 	error:function(x,e,errorThrown) {
 		console.log(x.getStatusCode());
@@ -6,12 +6,10 @@ $.ajaxSetup({
 	}
 });
 
-//EDIT THESE LINES
-//Title of the blog
 var TITLE = "FSFTN";
-//RSS url
+
 var RSS = "http://feeds.feedburner.com/fsftn";
-//Stores entries
+
 var entries = [];
 var selectedEntry = "";
 

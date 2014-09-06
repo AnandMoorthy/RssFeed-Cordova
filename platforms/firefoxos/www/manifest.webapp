@@ -6,10 +6,10 @@
     "version": "0.0.1",
     "name": "FSFTN",
     "pkgName": "com.anand.fsftnfeed",
-    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "description": "Application for Free Software Foundation Tamilnadu and a small RSS reader is Inside of the Application.",
     "developer": {
-        "name": "Apache Cordova Team",
-        "url": "http://cordova.io"
+        "name": "Free Software Foundation TamilNadu",
+        "url": "http://www.facebook.com/anandyuvas"
     },
     "icons": {}
 }
